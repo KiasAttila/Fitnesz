@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+}
+h1, h4{
+    text-align: center;
+}
+h4{
+    margin: 0;
+}
+li{
+    display: inline;
+}
+
+header{
+    background-image: url(kek_eg.jpg);
+    margin: 0;
+}
+nav{
+    background-image: url(menu_hatter.png);
+    margin: 0;
+}
+img{
+    float: right;
+}
+#container{
+    width: 750px;
+    margin: auto;
+    border: 1px transparent black;
+    background-color: white;
+}
+ul{
+    text-align: center;
+    margin: 0;
+}
+a { color: white; }
+style{
+     text-indent: 4em;
+}
+#bent {text-indent: 3em;
+}
+#link{
+    margin-right: 60px;
+}
+a{
+    text-decoration: none;
+}
+img{
+    display: block;
+}
+body{
+    background-color: gray;
+}
+#ben{
+    text-indent: 1.5em;
+}
+#gyur{
+   position: relative;
+   bottom: 15px;
+}
+#gyu{
+    margin-bottom: 40px;
+}
+#wrapper{
+    width: 700px;
+    margin: auto;
+    border: 1px transparent black;
+    background-color: white;
+}
+#lista{
+    display: list-item;
+    text-align: left;
+}
+#pe{
+    text-align: left;
+}
+#bal{
+    text-align: left;
+    display: block;
+}
+.balra{
+    float: left;
+    background-color: white;
+}
+#ba{
+    padding-right: 60px;
+}
+#uli{
+    text-align: left;
+}
+#div{
+    width: 900px;
+    margin: auto;
+    border: 1px transparent black;
+    background-color: white;
+    text-indent: 0.8em;
+}
+#main{
+    font-size: larger;
+}
+.text{
+    width: 80%;
+    margin-left: 1.1em;
+}
+#bentebb{
+    text-indent: 0.8em;
+}
+.p{
+    margin: 0;
+}
+.b{
+    margin-left: 1.5em;
+}
+.submit-btn {
+    display: inline;
+    margin-left: 1.1em;
+}
